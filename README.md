@@ -12,4 +12,4 @@ Make sure that `DJango` is installed, check by run `pip show DJango`
      Quit the server with CONTROL-C.
      ```
 3. Open browser and go to link `http://127.0.0.1:8000/salary_calc?raw_salary=12345&city=SH`, you will see:
-    ![screen_shot](link)
+    ![screen_shot](https://github.com/GuoquanXing/TaxCalculator_PRC/blob/master/shot.png)
